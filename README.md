@@ -1,7 +1,7 @@
 
 # Mclick
 
-bash script written on C++ to perform MBR/MBL
+bash script written on C to perform MBR/MBL
 click/hold action via /dev/uinput
 
 I make it bk i cant find alternative.
